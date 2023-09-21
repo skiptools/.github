@@ -1,1 +1,1 @@
-Skip is a Swift to Kotlin transpiler.
+Dual-platform app development in Swift
