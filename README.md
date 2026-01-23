@@ -1,3 +1,3 @@
-skip.tools
+skip.dev
 ==========
 
