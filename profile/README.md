@@ -4,4 +4,6 @@ Skip brings Swift app development to Android. It is a tool that enables develope
 
 This "skiptools" organization hosts Skip's [`skipstone` build plugin](https://github.com/skiptools/skip) and the [`skip` tool](https://github.com/skiptools/skipstone) itself, as well as the [sample apps](https://skip.dev/docs/samples/), [core and integration frameworks](https://skip.dev/docs/modules/), and the [skip.dev web site](https://github.com/skiptools/skip.dev). [Contributions](https://skip.dev/docs/contributing/) are welcome.
 
+[![Skip Star History](https://api.star-history.com/svg?repos=skiptools/skip&type=date&legend=top-left)](https://github.com/skiptools/skip)
+
 Skip can only exist and thrive with your support. Please encourage your company or organization to [sponsor the project](https://skip.dev/sponsor/).
