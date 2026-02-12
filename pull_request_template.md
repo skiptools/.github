@@ -9,3 +9,9 @@ Skip Pull Request Checklist:
 - [ ] OPTIONAL: I have tested my change on an iOS simulator or device
 - [ ] OPTIONAL: I have tested my change on an Android emulator or device
 
+-----
+
+- [ ] AI was used to generate or assist with generating this PR. *Please specify below how you used AI to help you, and what steps you have taken to manually verify the changes*.
+
+-----
+
